@@ -1,5 +1,3 @@
-Creating a comprehensive and engaging README for your "Visual Search Engine" project is crucial for attracting users and collaborators. Below is a template that you can customize to fit your project’s specifics:
-
 # Visual Search Engine
 
 ![Visual Search Engine Logo](path_to_logo_image)
