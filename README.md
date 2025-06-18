@@ -30,7 +30,6 @@ The **Visual Search Engine** is an innovative tool designed to enhance the way u
 - **Backend:** Node.js, Express
 - **Database:** MongoDB
 - **Machine Learning:** TensorFlow, OpenCV
-- **Cloud Services:** AWS for hosting and storage
 
 ## Installation
 
